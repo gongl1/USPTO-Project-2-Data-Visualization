@@ -46,4 +46,4 @@ Welcome to the USPTO patents dashboard!
 
 - - -
 
-@ 2021 Liang Gong. All Rights Reserved.
+© Liang Gong. Confidential and Proprietary. All Rights Reserved.
