@@ -1,3 +1,6 @@
+**Please refer to Pattern Patent_Visualization.pptx for my presentation of project 2, which is an extension for Project 1 and ETL. The topic USPTO patents is consistent across my projects**.
+
+
 # project2-heroku
 
 https://www.uspto.gov/web/patents/classification/selectnumwithtitle.htm
@@ -10,7 +13,7 @@ Steps to run the app:
 
 
 
-## Front Page
+## Front Page: It lays out the 5 pages in this web visualization project. 
 
 ![1-Logo](Images/FrontPage.PNG)
 
@@ -18,24 +21,24 @@ Welcome to the USPTO patents dashboard!
 
 
 
-## Page 1
+## Page 1: It provides an interactive choropleth chart for patent distributions in USA. 
 
 ![1-Logo](Images/Page1.PNG)
 
-## Page 2
+## Page 2: It provides an interactive correlation dashboard showing relationships between applications and other factors with D3. 
 
 ![1-Logo](Images/Page2.PNG)
 
-## Page 3
+## Page 3: It provides a heatmap showing applications distributions in California. 
 
 ![1-Logo](Images/Page3.PNG)
 
-## Page 4
+## Page 4: It is the visulization for the Hamlet App presenting the patented rate and time to secure a patent under a uspc class. https://github.com/gongl1/ETL/blob/main/Pattern%20Patent_ETL.pdf
 
 ![1-Logo](Images/Page4_1.PNG)
 ![1-Logo](Images/Page4_2.PNG)
 
-## Page 5
+## Page 5: It is the visulization for the HesJustNotThatIntoYou App presenting the patented rates for different attorneys under a uspc class. 
 
 ![1-Logo](Images/Page5_1.PNG)
 ![1-Logo](Images/Page5_2.PNG)
