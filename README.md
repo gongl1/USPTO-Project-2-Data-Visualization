@@ -33,12 +33,12 @@ Welcome to the USPTO patents dashboard!
 
 ![1-Logo](Images/Page3.PNG)
 
-## Page 4: It is the visulization for the Hamlet App presenting the patented rate and time to secure a patent under a uspc class. https://github.com/gongl1/ETL/blob/main/Pattern%20Patent_ETL.pdf
+## Page 4: It is the interactive visulization for the Hamlet App presenting the patented rate and time to secure a patent under a uspc class. https://github.com/gongl1/ETL/blob/main/Pattern%20Patent_ETL.pdf
 
 ![1-Logo](Images/Page4_1.PNG)
 ![1-Logo](Images/Page4_2.PNG)
 
-## Page 5: It is the visulization for the HesJustNotThatIntoYou App presenting the patented rates for different attorneys under a uspc class. 
+## Page 5: It is the interactive visulization for the HesJustNotThatIntoYou App presenting the patented rates for different attorneys under a uspc class. 
 
 ![1-Logo](Images/Page5_1.PNG)
 ![1-Logo](Images/Page5_2.PNG)
