@@ -21,7 +21,7 @@ Welcome to the USPTO patents dashboard!
 
 
 
-## Page 1: It provides an interactive choropleth chart for patent distributions in USA. 
+## Page 1: It provides an interactive choropleth chart for patents distributions in USA. 
 
 ![1-Logo](Images/Page1.PNG)
 
