@@ -1,4 +1,4 @@
-**Please refer to Pattern Patent_Visualization.pptx for my presentation of project 2, which is an extension for Project 1 and ETL. The topic USPTO patents is consistent across my projects**.
+**Please refer to Pattern Patent_Visualization.pptx for my presentation of project 2 (https://github.com/gongl1/project2-heroku/blob/main/Pattern%20Patent_Visualization.pptx), which is an extension for Project 1 and ETL. The topic USPTO patents is consistent across my project portfolio**.
 
 
 # project2-heroku
